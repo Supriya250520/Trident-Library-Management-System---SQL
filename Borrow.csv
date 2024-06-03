@@ -1,0 +1,60 @@
+S_NO,Student_id,Name,Department_id,Book_id,Book_name,Borrow_date,Return_date,Staff_name
+1510,263,Sudarshan ,1,1002,Introduction to Algorithms,2023-06-01,2023-06-13,Smitanjali
+1511,266,Rashmi,1,1001,Computer Organisation ,2023-06-01,2023-06-13,Smitanjali
+1512,263,Sudarshan ,1,1013,DSA  in C++,2023-06-01,2023-06-13,Smitanjali
+1513,267,Abhishek ,1,1001,Computer Organisation ,2023-06-02,2023-06-17,Smitanjali
+1514,268,Chinmaya ,1,1009,Web Technologies,2023-06-02,2023-06-17,Smitanjali
+1515,305,Snehasis ,1,1012,Python Crash Course,2023-06-02,2023-06-17,Smitanjali
+1516,292,Smitanjali,1,1003,Operating System Concept,2023-06-02,2023-06-17,Smitanjali
+1517,287,Lopamudra,1,1013,DSA  in C++,2023-06-02,2023-06-17,Ajay
+1518,285,Supriya,1,1003,Operating System Concept,2023-06-05,2023-06-18,Ajay
+1519,272,Shradha,1,1003,Operating System Concept,2023-06-05,2023-06-18,Ajay
+1520,273,Bhabani,1,1011,Database System ,2023-06-05,2023-06-18,Smitanjali
+1521,279,Sourav ,1,1011,Database System ,2023-06-05,2023-06-19,Ajay
+1522,286,Adyesha,1,1013,DSA  in C++,2023-06-05,2023-06-19,Smitanjali
+1523,288,Sibashis ,1,1012,Python Crash Course,2023-06-05,2023-06-19,Smitanjali
+1524,288,Sibashis ,1,1013,DSA  in C++,2023-06-05,2023-06-19,Smitanjali
+1525,278,Rusali,1,1003,Operating System Concept,2023-06-05,2023-06-19,Smitanjali
+1526,278,Rusali,1,1001,Computer Organisation ,2023-06-05,2023-06-19,Smitanjali
+1527,290,Abhijeet,1,1001,Computer Organisation ,2023-06-05,2023-06-19,Smitanjali
+1528,260,Dibyajit,1,1017,C++Programming Language,2023-06-05,2023-06-16,Smitanjali
+1529,261,Monalisha,1,1005,Computer Networks,2023-06-06,2023-06-19,Smitanjali
+1530,262,Biswajit ,1,1016,OOP with C++,2023-06-06,2023-06-18,Smitanjali
+1531,266,Rashmi,1,1011,Database System ,2023-06-06,2023-06-19,Smitanjali
+1532,266,Rashmi,1,1013,DSA  in C++,2023-06-06,2023-06-20,Smitanjali
+1533,269,Janmajaya,1,1011,Database System ,2023-06-06,2023-06-21,Smitanjali
+1534,276,Pradosh ,1,1011,Database System ,2023-06-06,2023-06-22,Smitanjali
+1535,271,Chinmaya ,1,1016,OOP with C++,2023-06-06,2023-06-23,Smitanjali
+1536,299,Rajan,1,1018,Programming with JAVA,2023-06-06,2023-06-20,Smitanjali
+1537,301,Souvik,1,1020,Web Design with HTML anad CSS,2023-06-06,2023-06-19,Smitanjali
+1538,297,Aniket,1,1021,Verbal And Non Verbal Reasoning ,2023-06-07,2023-06-21,Smitanjali
+1539,297,Aniket,1,1018,Programming with JAVA,2023-06-08,2023-06-21,Smitanjali
+1540,294,Ashis,1,1023,Logical Reasoning,2023-06-08,2023-06-21,Smitanjali
+1541,298,Satyam,1,1021,Verbal And Non Verbal Reasoning ,2023-06-08,2023-06-21,Smitanjali
+1542,284,Anurag,1,1022,Quantitative Aptitude,2023-06-08,2023-06-21,Smitanjali
+1543,263,Sudarshan ,1,1006,Software Engineering,2023-06-08,2023-06-21,Smitanjali
+1544,285,Supriya,1,1013,DSA  in C++,2023-06-08,2023-06-22,Smitanjali
+1545,302,Sourav ,1,1017,C++Programming Language,2023-06-08,2023-06-22,Ajay
+1546,286,Adyesha,1,1016,OOP with C++,2023-06-08,2023-06-22,Ajay
+1547,290,Abhijeet,1,1016,OOP with C++,2023-06-08,2023-06-22,Ajay
+1548,297,Aniket,1,1016,OOP with C++,2023-06-08,2023-06-23,Ajay
+1549,283,Nalini ,1,1002,Introduction to Algorithms,2023-06-08,2023-06-20,Ajay
+1550,274,Biswajeet,1,1013,DSA  in C++,2023-06-08,2023-06-19,Ajay
+1551,295,Nikhilesh,1,1012,Python Crash Course,2023-06-09,2023-06-24,Ajay
+1552,295,Nikhilesh,1,1013,DSA  in C++,2023-06-09,2023-06-23,Ajay
+1553,292,Smitanjali,1,1012,Python Crash Course,2023-06-09,2023-06-23,Ajay
+1554,292,Smitanjali,1,1013,DSA  in C++,2023-06-12,2023-06-23,Ajay
+1555,289,Ananya ,1,1016,OOP with C++,2023-06-12,2023-06-23,Ajay
+1556,282,Rajat,1,1022,Quantitative Aptitude,2023-06-12,2023-06-23,Ajay
+1557,283,Nalini ,1,1005,Computer Networks,2023-06-12,2023-06-24,Ajay
+1558,280,Jayashree,1,1017,C++Programming Language,2023-06-12,2023-06-25,Ajay
+1559,281,Ayesha,1,1021,Verbal And Non Verbal Reasoning ,2023-06-13,2023-06-26,Ajay
+1560,281,Ayesha,1,1012,Python Crash Course,2023-06-13,2023-06-27,Ajay
+1561,281,Ayesha,1,1009,Web Technologies,2023-06-13,2023-06-27,Ajay
+1562,281,Ayesha,1,1002,Introduction to Algorithms,2023-06-13,2023-06-27,Ajay
+1563,279,Sourav ,1,1006,Software Engineering,2023-06-13,2023-06-27,Ajay
+1564,271,Chinmaya ,1,1022,Quantitative Aptitude,2023-06-13,2023-06-27,Ajay
+1565,304,Smruti ranjan,1,1011,Database System ,2023-06-13,2023-06-27,Ajay
+1566,300,Sibaprasad,1,1018,Programming with JAVA,2023-06-13,2023-06-27,Ajay
+1567,301,Souvik,1,1016,OOP with C++,2023-06-13,2023-06-27,Ajay
+1568,303,Lucky,1,1021,Verbal And Non Verbal Reasoning ,2023-06-13,2023-06-27,Ajay

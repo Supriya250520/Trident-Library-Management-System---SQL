@@ -1,0 +1,24 @@
+BOOK_ID,TITLE,AUTHOR,PUBLISHER,YEAR_PUBLISHED,CATEGORY_ID
+1001,Computer Organisation ,David A. Patterson ,Morgan Kaufmann,2007,2
+1002,Introduction to Algorithms, Thomas ,MIT Press,2017,2
+1003,Operating System Concept, Abraham Silberschatz,WILEY,2018,2
+1004,DBMS,Raghu Ramakrishnan ,Mc GRAW- HILL,2002,3
+1005,Computer Networks,Andrew S. Tanenbaum ,Pearson,2016,1
+1006,Software Engineering,Ian Sommerville,Pearson,2017,1
+1007,Distributed System , George Coulouris,Pearson,2010,1
+1008,Computer Architecture, John L. Hennessy,Morgan Kaufmann,2017,1
+1009,Web Technologies,Jeffrey C. Jackson,Pearson ,2007,2
+1010,Compiler Design ,Alfred V. Aho,Pearson,2013,3
+1011,Database System ,Hector Garcia-Molina,Pearson ,2013,3
+1012,Python Crash Course,Eric Matthes,No Starch Press,2019,1
+1013,DSA  in C++, Mark Allen Weiss,Pearson ,2007,1
+1014,Ansi C Programming Lang,Dennis Ritchie,Pearson ,2015,1
+1015,Programming in Ansi C,E.Balagurusamy,Aakash Achiever ,2018,1
+1016,OOP with C++,E.Balagurusamy,TMH,2017,1
+1017,C++Programming Language,Dennis Ritchie,Pearson,1988,1
+1018,Programming with JAVA,Linda Seiter ,Chaukhamba Auriyant,2017,1
+1019,HTML5,DT Editorial ,Dreamtech Press,2016,1
+1020,Web Design with HTML anad CSS,Prem Kumar,Notion Press,2021,2
+1021,Verbal And Non Verbal Reasoning ,R.S. Aggarwal,S Chand Publishing,2018,4
+1022,Quantitative Aptitude,R.S. Aggarwal,S Chand Publishing,2018,5
+1023,Logical Reasoning,R.S. Aggarwal,S Chand Publishing,2018,6
