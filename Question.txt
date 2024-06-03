@@ -1,0 +1,16 @@
+# Trident-Library-Management-System---SQL
+Question that are Solved-
+
+Select first 5 students who enrolled in the year 2020. 
+List all the names and email adress of the student where first_name or last_name starts  with 'A'.
+Find all the book published by'Pearson'. 
+Show the name of the HOD of the MCA Department.
+List all the Category of Books available in the libraray.
+Display the details of books borrowed by a student with student_id = '263'.
+Find all the number of students enrolled in each year.
+List all the names ofstudents and  books borrowed by students from the category _id- 3 and enrollment year ='2021' .
+Get the names of the students who have borrowed books more than 2 Times.
+Find the total number of books in each category.
+List the names of a staff members along with the titles of books they have processed for borrowing . 
+Retrieve the details of books borrowed by students that were retur after 10 days from the borrow date. Display the book ID, book name, student ID, and student name along with the total count of such instances for each book.
+
